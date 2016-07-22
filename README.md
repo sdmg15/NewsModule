@@ -19,8 +19,8 @@ The user is free on expression.
 Requirements
 ------------
 
-No requirements predefine a part the one of that the user should be authenticated before 
-profiting from all web site services .
+No requirements predefined apart the one of that the user should be authenticated before 
+profiting from all web site services.
 
 Usage
 -----
