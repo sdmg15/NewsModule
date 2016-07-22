@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<routes>
+		<route url="/admin/"  module="News" action="index"/>
+		<route url="/admin/delete-news-([0-9]+)\.html" module="News" action="deleteNews" vars="id"/>
+		<route url="/admin/insert-news\.html" module="News" action="insertNews"/>
+		<route url="/admin/modifier-news-([0-9]+)\.html" module="News" action="updateNews" vars="id" />
+		<route url="/admin/update-comment-([0-9]+)\.html" module="News" action="updateComment" vars="id"/>
+		<route url="/admin/delete-comment-([0-9]+)\.html" module="News" action="deleteComment" vars="id"/>
+	</routes>
+	
