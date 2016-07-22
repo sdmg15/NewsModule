@@ -43,7 +43,7 @@ Donations
 
 If you wish to make a donation that will help me devote more time to 
 CG projects, send me encourrages message at this email <sonkengmaldini@gmail.com>
-or just send us some money at <sonkengmaldini@paypay.com>. Thanks.
+or just send us some money at <sonkengmaldini@paypal.com>. Thanks.
 
 This software is provided by the copyright holders and contributors "as
 is" and any express or implied warranties, including, but not limited
